@@ -6,8 +6,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CasaDeMarcat implements ComandaManager {
-    private List<Bautura> listaBauturi = new ArrayList<>();
+    private List<Bautura> listaBauturi;
     private static CasaDeMarcat instanta = null;
+
+    private CasaDeMarcat() {
+        listaBauturi = new ArrayList<>();
+    }
 
     public static synchronized CasaDeMarcat getInstanta() {
         if(instanta == null) {
