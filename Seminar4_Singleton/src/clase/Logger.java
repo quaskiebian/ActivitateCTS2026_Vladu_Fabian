@@ -4,7 +4,7 @@ public class Logger {
     protected int cod;
     protected String sender;
     protected String categorie;
-    private static Logger instantaSingleton=null;
+    private static Logger instantaSingleton = null;
 
     public void setSender(String sender) {
         this.sender = sender;
@@ -21,14 +21,14 @@ public class Logger {
     }
 
     public void afiseazaLog(String text) {
-        System.out.println("Logul cu codul "+cod+" efectuat de utilizatorul: "
-                +sender+" a constat in "+text+" din categoria "+categorie);
-        this.cod+=1;
+        System.out.println("Logul cu codul " + cod + " efectuat de utilizatorul: "
+                + sender + " a constat in " + text + " din categoria " + categorie);
+        this.cod += 1;
     }
 
     public static synchronized Logger getInstanta(String sender, String categorie) {
-        if(instantaSingleton==null) {
-            instantaSingleton = new Logger(sender,categorie);
+        if (instantaSingleton == null) {
+            instantaSingleton = new Logger(sender, categorie);
         }
         return instantaSingleton;
     }
