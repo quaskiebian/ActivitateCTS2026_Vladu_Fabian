@@ -8,17 +8,15 @@ public class Rezervare implements IRezervare {
 
     public Rezervare(String numeClient, int ora, int nrPersoane, String nrCard) {
         this.numeClient = numeClient;
-        if(ora>=11 && ora <=22) {
+        if (ora >= 11 && ora <= 22) {
             this.ora = ora;
-        }
-        else {
+        } else {
             this.ora = 11;
         }
         this.nrPersoane = nrPersoane;
-        if(nrCard.length()==16) {
+        if (nrCard.length() == 16) {
             this.nrCard = nrCard;
-        }
-        else {
+        } else {
             this.nrCard = "0000000000000000";
         }
     }
