@@ -4,9 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CTS.iml" filepath="$PROJECT_DIR$/CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rezolvare_Cafenele/Rezolvare_Cafenele.iml" filepath="$PROJECT_DIR$/Rezolvare_Cafenele/Rezolvare_Cafenele.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rezolvare_Restaurant/Rezolvare_Restaurant.iml" filepath="$PROJECT_DIR$/Rezolvare_Restaurant/Rezolvare_Restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rezolvare_Spital/Rezolvare_Spital.iml" filepath="$PROJECT_DIR$/Rezolvare_Spital/Rezolvare_Spital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4_SimpleFactory/Seminar4_SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4_SimpleFactory/Seminar4_SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4_Singleton/Seminar4_Singleton.iml" filepath="$PROJECT_DIR$/Seminar4_Singleton/Seminar4_Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5_Builder/Seminar5_Builder.iml" filepath="$PROJECT_DIR$/Seminar5_Builder/Seminar5_Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6_Factory_Method/Seminar6_Factory_Method.iml" filepath="$PROJECT_DIR$/Seminar6_Factory_Method/Seminar6_Factory_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6_Prototype/Seminar6_Prototype.iml" filepath="$PROJECT_DIR$/Seminar6_Prototype/Seminar6_Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_1/Seminar_1.iml" filepath="$PROJECT_DIR$/Seminar_1/Seminar_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_2/Seminar_2.iml" filepath="$PROJECT_DIR$/Seminar_2/Seminar_2.iml" />
     </modules>
