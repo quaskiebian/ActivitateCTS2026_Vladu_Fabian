@@ -11,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5_Builder/Seminar5_Builder.iml" filepath="$PROJECT_DIR$/Seminar5_Builder/Seminar5_Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6_Factory_Method/Seminar6_Factory_Method.iml" filepath="$PROJECT_DIR$/Seminar6_Factory_Method/Seminar6_Factory_Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6_Prototype/Seminar6_Prototype.iml" filepath="$PROJECT_DIR$/Seminar6_Prototype/Seminar6_Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9_Adapter/Seminar9_Adapter.iml" filepath="$PROJECT_DIR$/Seminar9_Adapter/Seminar9_Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9_Facade/Seminar9_Facade.iml" filepath="$PROJECT_DIR$/Seminar9_Facade/Seminar9_Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9_Proxy/Seminar9_Proxy.iml" filepath="$PROJECT_DIR$/Seminar9_Proxy/Seminar9_Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_1/Seminar_1.iml" filepath="$PROJECT_DIR$/Seminar_1/Seminar_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_2/Seminar_2.iml" filepath="$PROJECT_DIR$/Seminar_2/Seminar_2.iml" />
     </modules>
